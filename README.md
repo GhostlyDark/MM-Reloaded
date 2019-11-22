@@ -1,8 +1,13 @@
-# MMHD
-WIP textures for MM intended for the GlideN64 plugin. Please make sure to follow all of the instructions and to use 7-zip to extract the pack. 
+## MM N64HD (MLE)
+Majora's Mask N64HD Project (MLE) is the Multi-Language Edition of Nerrel's high quality texture pack for GLideN64. 
 
-The HTS version has the lowest hardware requirements and will only use several hundred mb of RAM. It is the only version that will load in current Project64 releases.
+## MLE Features
+- Language support: English (PAL), German, French, Spanish and Japanese
+- Missing textures added (Hi-Score numbers, Stray Fairies, etc.)
+- Remade various text tiles for higher quality
+- Upscaled background textures (Granny's Stories)
 
-The HTC version loads all textures at startup and should eliminate stuttering, but consumes too much memory to be used with a 32-bit emulator like Project64. It is only for those using Mupen64 or experimental x64 versions of Project64 (which also require a x64 GlideN64 build). 
-
-The PNG version contains the raw image files and will take much longer to load. It is only recommended for those who want to build their own cache files.
+## Usage
+- Use 7-zip to extract the pack.
+- The cache version provided is uncompressed HTS as it avoids stuttering that is caused by the decompression of large textures.
+- The PNG version contains the raw image files. It is only recommended for those who want to build their own cache files.
