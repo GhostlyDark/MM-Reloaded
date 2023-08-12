@@ -1,5 +1,5 @@
 ## MM Reloaded (GLideN64)
-Majora's Mask Reloaded is a custom version of Nerrel's high quality texture pack MMHD for GLideN64, formerly known as MLE (Multi-Language Edition). 
+Majora's Mask Reloaded is a custom version of Nerrel's high quality texture pack MMHD for GLideN64 and [Dolphin](https://github.com/GhostlyDark/MM-Reloaded-Dolphin), formerly known as MLE (Multi-Language Edition). 
 
 ![](/mm-reloaded.jpg)
 
