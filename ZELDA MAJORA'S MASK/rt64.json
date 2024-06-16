@@ -62861,6 +62861,15 @@
         },
         {
             "hashes": {
+                "rice": "",
+                "rt64v1": "155cf5662c9d5b72"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\155cf5662c9d5b72.png"
+        },
+        {
+            "hashes": {
                 "rice": "8b0f7f4c#2#1#f76d1d70",
                 "rt64v1": "7e81a866287fd2a4"
             },
