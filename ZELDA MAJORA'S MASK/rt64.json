@@ -63596,6 +63596,438 @@
             "life": "pool",
             "load": "stream",
             "path": "rt64\\Granny Stories\\Giants_39.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "1e11f893e012fe48"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Select Item\\01.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "a76c338a8c313261"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Select Item\\02.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "8b9f516718f598e1"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Select Item\\03.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "021668a4569158d3"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Select Item\\04.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "3cf1881a50e7c636"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Select Item\\05.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "c5c97157ed683049"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Select Item\\06.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "92372a167dc3151f"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Select Item\\07.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "d0a264eda1ccb1dc"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Select Item\\08.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "8b4627a95fde9d4c"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Select Item\\09.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "dfb71163ec1c0101"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Select Item\\10.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "505d4267c2f46805"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Select Item\\11.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "8d0606a41b2126d2"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Select Item\\12.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "d556ec35fafb3ae3"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Map\\01.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "7a8f3f81644918b3"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Map\\02.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "1642e665d06e3a5d"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Map\\03.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "13367ea13850c149"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Map\\04.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "0078e3fa8e6c290f"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Map\\05.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "402f84c1b382ae03"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Map\\06.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "282fb6bd4b1648b0"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Map\\07.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "da1af601d8190291"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Map\\08.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "30edb4bb24f3ac58"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Map\\09.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "1f8fc9ab724b54f4"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Map\\10.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "4da9f6ea2c384af2"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Map\\11.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "1aa8cf8b468d0ec5"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Map\\12.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "edee2af6e6ee56a4"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Quest Status\\01.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "a7e37eb0e3cd823b"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Quest Status\\02.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "1d5f2b6e7b4014dc"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Quest Status\\03.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "cfdc164c3414da36"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Quest Status\\04.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "a4f9095ab89965b7"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Quest Status\\05.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "171791af1da7d1fb"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Quest Status\\06.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "34ddd347d303426e"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Quest Status\\07.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "cfb1b51c847d8042"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Quest Status\\08.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "b9374fc2097a35ce"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Quest Status\\09.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "79929149cbc13b63"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Quest Status\\10.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "d4c8ff8063867fc1"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Quest Status\\11.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "ff416a53b62336c4"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Quest Status\\12.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "60cfc7b95bf30412"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Masks\\01.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "822a028082d5b637"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Masks\\02.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "f19db2a21f996d44"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Masks\\03.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "2b299a9aa7275d8a"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Masks\\04.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "a76908dfaa7ac92d"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Masks\\05.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "d307dcad95afc6a0"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Masks\\06.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "eceb1bfb362400bf"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Masks\\07.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "240bc0d74412e0e0"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Masks\\08.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "2a13692c56307428"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Masks\\09.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "81e1f4615ed8d6cb"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Masks\\10.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "d417a719dd5bf3ff"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Masks\\11.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "ad772b4948f1327d"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\Pause Screen\\Masks\\12.png"
         }
     ]
 }
