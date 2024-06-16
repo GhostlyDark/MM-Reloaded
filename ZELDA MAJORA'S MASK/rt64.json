@@ -48956,15 +48956,6 @@
         },
         {
             "hashes": {
-                "rice": "cb12a6a5#2#1#57bfff61",
-                "rt64v1": "20642c0a1752af99"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": ""
-        },
-        {
-            "hashes": {
                 "rice": "27fabe0a#3#1",
                 "rt64v1": "208232d628566d3e"
             },
@@ -49541,15 +49532,6 @@
         },
         {
             "hashes": {
-                "rice": "bf169ef9#2#1#0c5d9c69",
-                "rt64v1": "3b2f1daad0f296ea"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": ""
-        },
-        {
-            "hashes": {
                 "rice": "bf0648ba#0#2",
                 "rt64v1": "3baad86f6af6f9df"
             },
@@ -50119,15 +50101,6 @@
             "hashes": {
                 "rice": "6f6c5e77#4#0",
                 "rt64v1": "5567ca71a400ea53"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "65d77fb2#2#1#85b60a10",
-                "rt64v1": "560ede26de257613"
             },
             "life": "pool",
             "load": "stream",
@@ -50747,15 +50720,6 @@
         },
         {
             "hashes": {
-                "rice": "bb6fdcc6#2#1#0675e494",
-                "rt64v1": "7b64c32105772669"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": ""
-        },
-        {
-            "hashes": {
                 "rice": "eed5dd66#3#2",
                 "rt64v1": "7c01b561bc718dcb"
             },
@@ -50810,15 +50774,6 @@
         },
         {
             "hashes": {
-                "rice": "8b0f7f4c#2#1#f76d1d70",
-                "rt64v1": "7e81a866287fd2a4"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": ""
-        },
-        {
-            "hashes": {
                 "rice": "eff50be1#3#0",
                 "rt64v1": "7f046d4c21dcc1cd"
             },
@@ -50839,15 +50794,6 @@
             "hashes": {
                 "rice": "e1cce43e#0#3",
                 "rt64v1": "8023d0cda3e5de5b"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "3bb28b3e#2#1#7275880f",
-                "rt64v1": "807352a005cad74e"
             },
             "life": "pool",
             "load": "stream",
@@ -50938,15 +50884,6 @@
             "hashes": {
                 "rice": "e18cff59#0#3",
                 "rt64v1": "8473c985d68c235d"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "b4d3d952#2#1#f47463bc",
-                "rt64v1": "84aab607a3735cdf"
             },
             "life": "pool",
             "load": "stream",
@@ -51071,15 +51008,6 @@
         },
         {
             "hashes": {
-                "rice": "e586fdec#2#1#6b3293f8",
-                "rt64v1": "8be271313bb82408"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": ""
-        },
-        {
-            "hashes": {
                 "rice": "54ebcae1#3#2",
                 "rt64v1": "8c13e0700a6183dc"
             },
@@ -51118,15 +51046,6 @@
             "hashes": {
                 "rice": "5be8b964#0#3",
                 "rt64v1": "8dc6bfdc84d09366"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "fe3c47fc#2#1#ab5a027f",
-                "rt64v1": "8e48b0cd9ea2d246"
             },
             "life": "pool",
             "load": "stream",
@@ -51863,15 +51782,6 @@
         },
         {
             "hashes": {
-                "rice": "8964f758#2#1#f47463bc",
-                "rt64v1": "b4889a41b1f0c273"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": ""
-        },
-        {
-            "hashes": {
                 "rice": "3fc98347#4#1",
                 "rt64v1": "b637458cc43680fa"
             },
@@ -52241,15 +52151,6 @@
         },
         {
             "hashes": {
-                "rice": "4a00ade2#2#1#f47463bc",
-                "rt64v1": "cc295976db3b78b5"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": ""
-        },
-        {
-            "hashes": {
                 "rice": "f23fcd61#3#0",
                 "rt64v1": "cd79e8d56a2daa37"
             },
@@ -52261,15 +52162,6 @@
             "hashes": {
                 "rice": "6ff959f5#3#0",
                 "rt64v1": "ce1aadb25bbe0e1b"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "902ea52a#2#1#f76d1d70",
-                "rt64v1": "ce7a231478a0a469"
             },
             "life": "pool",
             "load": "stream",
@@ -52790,15 +52682,6 @@
         },
         {
             "hashes": {
-                "rice": "d9236c77#2#1#f47463bc",
-                "rt64v1": "e787d9e2e0dce11d"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": ""
-        },
-        {
-            "hashes": {
                 "rice": "605a87fb#4#1",
                 "rt64v1": "e8766a0bc8f33cd4"
             },
@@ -53015,15 +52898,6 @@
         },
         {
             "hashes": {
-                "rice": "12907b88#2#1#4909bd5b",
-                "rt64v1": "f1321eb022e3305c"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": ""
-        },
-        {
-            "hashes": {
                 "rice": "229bfca5#3#0",
                 "rt64v1": "f1539bd9b1065ed6"
             },
@@ -53035,15 +52909,6 @@
             "hashes": {
                 "rice": "4a4965d0#3#2",
                 "rt64v1": "f1621e2b8fd70e8b"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "29cbfb04#2#1#359ab5d8",
-                "rt64v1": "f23d759eab60d4dd"
             },
             "life": "pool",
             "load": "stream",
@@ -62966,6 +62831,726 @@
             "life": "pool",
             "load": "stream",
             "path": "rt64\\Recomp\\bd8dd98dc8162045.png"
+        },
+        {
+            "hashes": {
+                "rice": "8b0f7f4c#2#1#f76d1d70",
+                "rt64v1": "7e81a866287fd2a4"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_0.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "9d2bbe7786921004"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_1.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "95007551954328b2"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_2.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "50002663e8c7d447"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_3.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "c219fae49cab16f1"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_4.png"
+        },
+        {
+            "hashes": {
+                "rice": "902ea52a#2#1#f76d1d70",
+                "rt64v1": "ce7a231478a0a469"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_5.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "4f2c57f0eac69437"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_6.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "c5555530afbf7bfd"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_7.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "32bf6a7b8337d113"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_8.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "272c2902ee1e31de"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_9.png"
+        },
+        {
+            "hashes": {
+                "rice": "3bb28b3e#2#1#7275880f",
+                "rt64v1": "807352a005cad74e"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_10.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "c03f6b6596215dc8"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_11.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "94d562ecc7669a41"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_12.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "dac6717954c6f684"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_13.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "0e10d40cd9c66799"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_14.png"
+        },
+        {
+            "hashes": {
+                "rice": "65d77fb2#2#1#85b60a10",
+                "rt64v1": "560ede26de257613"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_15.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "8885ffa8478b2bd7"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_16.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "72426d1fbaae94f3"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_17.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "197b44224153deff"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_18.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "b8fb6540c343101b"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_19.png"
+        },
+        {
+            "hashes": {
+                "rice": "12907b88#2#1#4909bd5b",
+                "rt64v1": "f1321eb022e3305c"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_20.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "cebd947cd19b302f"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_21.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "c7ce9380508ea34c"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_22.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "26e3bc8e672a577a"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_23.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "324ade3689477494"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_24.png"
+        },
+        {
+            "hashes": {
+                "rice": "cb12a6a5#2#1#57bfff61",
+                "rt64v1": "20642c0a1752af99"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_25.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "c1ff065aa218b2ec"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_26.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "4e493947065a876c"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_27.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "3bcfb017f015e2ab"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_28.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "0409a8d615cb0bf5"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_29.png"
+        },
+        {
+            "hashes": {
+                "rice": "bf169ef9#2#1#0c5d9c69",
+                "rt64v1": "3b2f1daad0f296ea"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_30.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "1eff720f6cfb9210"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_31.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "3ba35f8edbac402b"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_32.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "041103793fc08c61"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_33.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "f280a95fa7348494"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_34.png"
+        },
+        {
+            "hashes": {
+                "rice": "fe3c47fc#2#1#ab5a027f",
+                "rt64v1": "8e48b0cd9ea2d246"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_35.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "9573bb4c9c910068"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_36.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "2c277896978b3130"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_37.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "4da9046ece9c34b7"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_38.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "b4400a7fac3349fd"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Carnival_39.png"
+        },
+        {
+            "hashes": {
+                "rice": "bb6fdcc6#2#1#0675e494",
+                "rt64v1": "7b64c32105772669"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_0.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "906c0bd4a9b508ef"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_1.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "eb73b55fbc1cf4fb"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_2.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "d314eca558f881d7"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_3.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "9354a1bf887b67f1"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_4.png"
+        },
+        {
+            "hashes": {
+                "rice": "7d58cf59#2#1#4f3fd600",
+                "rt64v1": "e8a61e1f14dc4e8c"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_5.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "3e2ebd3d692cb8da"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_6.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "03f219aa6507b543"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_7.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "c2c2496db29aa4dc"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_8.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "887d924902e59224"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_9.png"
+        },
+        {
+            "hashes": {
+                "rice": "4a00ade2#2#1#f47463bc",
+                "rt64v1": "cc295976db3b78b5"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_10.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "8ed453b180e89415"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_11.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "c9bd804eec15f5e8"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_12.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "90a9ca639d249026"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_13.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "5afee4530dd4aef2"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_14.png"
+        },
+        {
+            "hashes": {
+                "rice": "b4d3d952#2#1#f47463bc",
+                "rt64v1": "84aab607a3735cdf"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_15.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "d97b52970bca1120"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_16.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "18df44bc890fdba4"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_17.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "7d720c4af03a41da"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_18.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "1ea7662085949bfb"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_19.png"
+        },
+        {
+            "hashes": {
+                "rice": "8964f758#2#1#f47463bc",
+                "rt64v1": "b4889a41b1f0c273"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_20.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "c8c35e102878377b"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_21.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "df9513f4a83718b5"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_22.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "ce1e7aedf2a0d868"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_23.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "4c9c0ad422af7e32"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_24.png"
+        },
+        {
+            "hashes": {
+                "rice": "d9236c77#2#1#f47463bc",
+                "rt64v1": "e787d9e2e0dce11d"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_25.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "fdcb1483f61a906b"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_26.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "ef561578797e3f13"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_27.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "603575d4bb3a6267"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_28.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "3f1f0561a4d9c0a5"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_29.png"
+        },
+        {
+            "hashes": {
+                "rice": "e586fdec#2#1#6b3293f8",
+                "rt64v1": "8be271313bb82408"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_30.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "ab54a59da4740c2b"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_31.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "4cde5c2e9b6f0aec"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_32.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "1932da6cebb2f48f"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_33.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "93584c42d7b53ad0"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_34.png"
+        },
+        {
+            "hashes": {
+                "rice": "29cbfb04#2#1#359ab5d8",
+                "rt64v1": "f23d759eab60d4dd"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_35.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "f35169c865d292aa"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_36.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "9dd3f4191c0241a8"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_37.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "a741c0ac5d3e75ba"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_38.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "6201ca4e8a93a6c3"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Granny Stories\\Giants_39.png"
         }
     ]
 }
