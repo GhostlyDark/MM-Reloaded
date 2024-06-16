@@ -32,6 +32,15 @@
         },
         {
             "hashes": {
+                "rice": "1e6de584#2#0#3bb570da",
+                "rt64v1": "17cae88fd6acf123"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": ""
+        },
+        {
+            "hashes": {
                 "rice": "8bfccbfe#3#2",
                 "rt64v1": "00039d2adb2b03ec"
             },
