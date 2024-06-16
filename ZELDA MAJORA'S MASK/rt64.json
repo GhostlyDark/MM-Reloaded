@@ -5,6 +5,33 @@
     "textures": [
         {
             "hashes": {
+                "rice": "2aeaa9d8#4#1",
+                "rt64v1": "f031af58c351d4fd"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "d144e4e4#4#1",
+                "rt64v1": "3afc0ae708d3e5ac"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64v1": "652784651c9c65f4"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\d144e4e4#4#1.png"
+        },
+        {
+            "hashes": {
                 "rice": "8bfccbfe#3#2",
                 "rt64v1": "00039d2adb2b03ec"
             },
