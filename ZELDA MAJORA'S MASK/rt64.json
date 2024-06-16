@@ -64028,6 +64028,69 @@
             "life": "pool",
             "load": "stream",
             "path": "rt64\\Recomp\\Pause Screen\\Masks\\12.png"
+        },
+        {
+            "hashes": {
+                "rice": "4c324714#0#2",
+                "rt64v1": "38a2961247abbfd7"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "I\\AM\\BROKEN"
+        },
+        {
+            "hashes": {
+                "rice": "c3995f0c#0#2",
+                "rt64v1": "52eeeed1881b3efd"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "I\\AM\\BROKEN"
+        },
+        {
+            "hashes": {
+                "rice": "460be774#0#2",
+                "rt64v1": "63c63d0adcebc54f"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "I\\AM\\BROKEN"
+        },
+        {
+            "hashes": {
+                "rice": "fae4bb3e#4#1",
+                "rt64v1": "98e19658fe98bf57"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "I\\AM\\BROKEN"
+        },
+        {
+            "hashes": {
+                "rice": "af4a56be#0#2",
+                "rt64v1": "81744ff4af0dca23"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "I\\AM\\BROKEN"
+        },
+        {
+            "hashes": {
+                "rice": "6802bd28#0#2",
+                "rt64v1": "3c5333037861aa8c"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "I\\AM\\BROKEN"
+        },
+        {
+            "hashes": {
+                "rice": "ab9d3bf0#3#2",
+                "rt64v1": "846fba8f03a0408c"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "I\\AM\\BROKEN"
         }
     ]
 }
