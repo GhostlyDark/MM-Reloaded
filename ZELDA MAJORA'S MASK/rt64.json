@@ -64664,7 +64664,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "82051a3d02e7dffc"
+                "rt64": "98f2fd331ac0001f"
             },
             "life": "pool",
             "load": "stream",
@@ -64673,7 +64673,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "d9780161eb4a3370"
+                "rt64": "b4c144bca990a5e4"
             },
             "life": "pool",
             "load": "stream",
@@ -64682,7 +64682,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "18065767d79d7612"
+                "rt64": "2fb3bd8b9f4cffae"
             },
             "life": "pool",
             "load": "stream",
@@ -64691,7 +64691,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "a660a628fcf3862d"
+                "rt64": "d4375b7f66d7b62d"
             },
             "life": "pool",
             "load": "stream",
@@ -64700,7 +64700,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "646401b569233455"
+                "rt64": "9643cc638565d79a"
             },
             "life": "pool",
             "load": "stream",
@@ -64709,7 +64709,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "d2b02ad3fa9172a8"
+                "rt64": "252be2b0eb5e6742"
             },
             "life": "pool",
             "load": "stream",
@@ -64718,7 +64718,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "558ffc1473732718"
+                "rt64": "72a84fb6028040e2"
             },
             "life": "pool",
             "load": "stream",
@@ -64727,7 +64727,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "98916987078558e5"
+                "rt64": "49490eced2f1fb6a"
             },
             "life": "pool",
             "load": "stream",
@@ -64736,7 +64736,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "4b17d12fc592cc99"
+                "rt64": "ba5d278b4dd107d6"
             },
             "life": "pool",
             "load": "stream",
@@ -64745,20 +64745,11 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "20532ddabf230c75"
+                "rt64": "f9e5a46ed93db609"
             },
             "life": "pool",
             "load": "stream",
             "path": "rt64\\Recomp\\Pause Screen\\Select Item\\11.png"
-        },
-        {
-            "hashes": {
-                "rice": "",
-                "rt64": "4784e472da7926e3"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": "rt64\\Recomp\\Pause Screen\\Select Item\\12.png"
         },
         {
             "hashes": {
@@ -64772,7 +64763,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "a8ad0da806c3d031"
+                "rt64": "2f77ac5f8ce8e9d2"
             },
             "life": "pool",
             "load": "stream",
@@ -64781,7 +64772,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "786d8be93663f356"
+                "rt64": "a6e15c9931de1c1b"
             },
             "life": "pool",
             "load": "stream",
@@ -64790,7 +64781,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "3ad08c3f1c1575d8"
+                "rt64": "217387b34cc261c3"
             },
             "life": "pool",
             "load": "stream",
@@ -64799,7 +64790,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "61eb63740e75200c"
+                "rt64": "24ad6b47ba3be794"
             },
             "life": "pool",
             "load": "stream",
@@ -64808,7 +64799,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "168fd264ac6ec58e"
+                "rt64": "9a7f91d77f2b8192"
             },
             "life": "pool",
             "load": "stream",
@@ -64817,7 +64808,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "f54186423c830d21"
+                "rt64": "3f687a671a01a14f"
             },
             "life": "pool",
             "load": "stream",
@@ -64826,7 +64817,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "dc215fb1cd0b0b78"
+                "rt64": "a6a997e52af69c27"
             },
             "life": "pool",
             "load": "stream",
@@ -64835,7 +64826,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "aed9f36a5b7a6de0"
+                "rt64": "22c212beaf6cec5b"
             },
             "life": "pool",
             "load": "stream",
@@ -64844,7 +64835,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "a8faa60cf54c037d"
+                "rt64": "e9ec7e7ce5f2eaa5"
             },
             "life": "pool",
             "load": "stream",
@@ -64853,20 +64844,11 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "e56b4d69a0194e1e"
+                "rt64": "893010f219cea821"
             },
             "life": "pool",
             "load": "stream",
             "path": "rt64\\Recomp\\Pause Screen\\Map\\11.png"
-        },
-        {
-            "hashes": {
-                "rice": "",
-                "rt64": "ed0dd122cebe7a0d"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": "rt64\\Recomp\\Pause Screen\\Map\\12.png"
         },
         {
             "hashes": {
@@ -64880,7 +64862,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "a8202a24e509a431"
+                "rt64": "248981c019887e1f"
             },
             "life": "pool",
             "load": "stream",
@@ -64889,7 +64871,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "5dca890e835366cd"
+                "rt64": "55c1eb0466364ef9"
             },
             "life": "pool",
             "load": "stream",
@@ -64898,7 +64880,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "118788955836d125"
+                "rt64": "7244ef4479539cc8"
             },
             "life": "pool",
             "load": "stream",
@@ -64907,7 +64889,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "8ecdd88481345365"
+                "rt64": "6ee8c3d804ca6bd4"
             },
             "life": "pool",
             "load": "stream",
@@ -64916,7 +64898,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "ae8fab2211425fab"
+                "rt64": "135574a385a26f46"
             },
             "life": "pool",
             "load": "stream",
@@ -64925,7 +64907,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "ab536fbfaa0880eb"
+                "rt64": "60cb8cf564452bc8"
             },
             "life": "pool",
             "load": "stream",
@@ -64934,7 +64916,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "5008e77eb8fcb7f7"
+                "rt64": "41ed912436a1c932"
             },
             "life": "pool",
             "load": "stream",
@@ -64943,7 +64925,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "679b6db264621454"
+                "rt64": "f9687f82acc38f9b"
             },
             "life": "pool",
             "load": "stream",
@@ -64952,7 +64934,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "c0b47ef4bac782ff"
+                "rt64": "ce567e0e7855e719"
             },
             "life": "pool",
             "load": "stream",
@@ -64961,20 +64943,11 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "53e262be33774c94"
+                "rt64": "a9f191b8e3ae8163"
             },
             "life": "pool",
             "load": "stream",
             "path": "rt64\\Recomp\\Pause Screen\\Quest Status\\11.png"
-        },
-        {
-            "hashes": {
-                "rice": "",
-                "rt64": "dd6d616d8ab5dd7e"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": "rt64\\Recomp\\Pause Screen\\Quest Status\\12.png"
         },
         {
             "hashes": {
@@ -64988,7 +64961,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "82390fcdb49f52c4"
+                "rt64": "d311c86cb6b75b43"
             },
             "life": "pool",
             "load": "stream",
@@ -64997,7 +64970,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "1e3521af1a587067"
+                "rt64": "019e9223fc3a1797"
             },
             "life": "pool",
             "load": "stream",
@@ -65006,7 +64979,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "fa23e375aab0e124"
+                "rt64": "4d77ea0713496f49"
             },
             "life": "pool",
             "load": "stream",
@@ -65015,7 +64988,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "f212947e2e0a1b63"
+                "rt64": "4c2c649e8da3cb78"
             },
             "life": "pool",
             "load": "stream",
@@ -65024,7 +64997,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "f33520cfb880e482"
+                "rt64": "08e7689396e75cbf"
             },
             "life": "pool",
             "load": "stream",
@@ -65033,7 +65006,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "414eb6ec2fb417ab"
+                "rt64": "f50a12204d42996e"
             },
             "life": "pool",
             "load": "stream",
@@ -65042,7 +65015,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "93beffd452b49823"
+                "rt64": "a69572dce7267b5f"
             },
             "life": "pool",
             "load": "stream",
@@ -65051,7 +65024,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "493a1cc963ab9cd4"
+                "rt64": "658048d8bedcf02e"
             },
             "life": "pool",
             "load": "stream",
@@ -65060,7 +65033,7 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "c8afd33640e3efa1"
+                "rt64": "3a71cb77954c54b0"
             },
             "life": "pool",
             "load": "stream",
@@ -65069,20 +65042,11 @@
         {
             "hashes": {
                 "rice": "",
-                "rt64": "0c3f33428b6d9f33"
+                "rt64": "d53adc638a10dfbc"
             },
             "life": "pool",
             "load": "stream",
             "path": "rt64\\Recomp\\Pause Screen\\Masks\\11.png"
-        },
-        {
-            "hashes": {
-                "rice": "",
-                "rt64": "b473035401a134fe"
-            },
-            "life": "pool",
-            "load": "stream",
-            "path": "rt64\\Recomp\\Pause Screen\\Masks\\12.png"
         },
         {
             "hashes": {
