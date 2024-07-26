@@ -125041,6 +125041,15 @@
             "life": "pool",
             "load": "stream",
             "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "c08e0fd17385dd74"
+            },
+            "life": "pool",
+            "load": "stream",
+            "path": "rt64\\Recomp\\c08e0fd17385dd74"
         }
     ]
 }
