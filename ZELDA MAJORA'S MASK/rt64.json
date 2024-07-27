@@ -7,7 +7,7 @@
     "operationFilters": [
         {
             "wildcard": "Nerrel\\UI\\Text\\Days\\Dawn\\*",
-            "operation": "stall"
+            "operation": "preload"
         },
         {
             "wildcard": "MLE\\Text\\Days\\Dawn\\*",
