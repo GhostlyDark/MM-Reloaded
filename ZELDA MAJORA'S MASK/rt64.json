@@ -4,6 +4,20 @@
         "configurationVersion": 2,
         "hashVersion": 2
     },
+    "operationFilters": [
+        {
+            "wildcard": "Nerrel\\UI\\Text\\Days\\Dawn\\*",
+            "operation": "stall"
+        },
+        {
+            "wildcard": "MLE\\Text\\Days\\Dawn\\*",
+            "operation": "stall"
+        },
+        {
+            "wildcard": "MLE\\iQue\\Text\\Days\\Dawn\\*",
+            "operation": "stall"
+        }
+    ],
     "textures": [
         {
             "hashes": {
