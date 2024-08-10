@@ -6,6 +6,10 @@
     },
     "operationFilters": [
         {
+            "wildcard": "rt64\\Inaccurate Coordinates\\a792d7c0#3#0",
+            "operation": "preload"
+        },
+        {
             "wildcard": "Nerrel\\UI\\Text\\Days\\Dawn\\*",
             "operation": "preload"
         },
