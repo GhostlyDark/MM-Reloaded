@@ -2,24 +2,24 @@
     "configuration": {
         "autoPath": "rice",
         "configurationVersion": 2,
-        "hashVersion": 2
+        "hashVersion": 3
     },
     "operationFilters": [
         {
-            "wildcard": "rt64\\Inaccurate Coordinates\\a792d7c0#3#0",
-            "operation": "preload"
+            "operation": "preload",
+            "wildcard": "rt64\\Inaccurate Coordinates\\a792d7c0#3#0"
         },
         {
-            "wildcard": "Nerrel\\UI\\Text\\Days\\Dawn\\*",
-            "operation": "preload"
+            "operation": "preload",
+            "wildcard": "Nerrel\\UI\\Text\\Days\\Dawn\\*"
         },
         {
-            "wildcard": "MLE\\Text\\Days\\Dawn\\*",
-            "operation": "stall"
+            "operation": "stall",
+            "wildcard": "MLE\\Text\\Days\\Dawn\\*"
         },
         {
-            "wildcard": "MLE\\iQue\\Text\\Days\\Dawn\\*",
-            "operation": "stall"
+            "operation": "stall",
+            "wildcard": "MLE\\iQue\\Text\\Days\\Dawn\\*"
         }
     ],
     "textures": [
