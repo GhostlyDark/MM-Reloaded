@@ -1,0 +1,12 @@
+{
+    "authors" : [
+        "GhostlyDark", "Nerrel"
+    ],
+    "description" : "Custom version of Nerrel's MMHD using more faithful textures",
+    "display_name" : "MM Reloaded",
+    "game_id" : "mm",
+    "id" : "MM-Reloaded",
+    "minimum_recomp_version" : "1.2.0",
+    "short_description" : "UHD texture pack",
+    "version" : "11.0.0"
+}
