@@ -4,6 +4,10 @@
         "configurationVersion": 2,
         "hashVersion": 3
     },
+    "extraFiles": [
+        "mod.json",
+        "thumb.dds"
+    ],
     "operationFilters": [
         {
             "operation": "preload",
