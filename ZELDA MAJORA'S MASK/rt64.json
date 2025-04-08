@@ -29,6 +29,27 @@
     "textures": [
         {
             "hashes": {
+                "rice": "9bc075b8#0#2",
+                "rt64": "8ca5185dcc3443ce"
+            },
+            "path": "rt64\\Inaccurate Coordinates\\9bc075b8#0#2"
+        },
+        {
+            "hashes": {
+                "rice": "83687ff0#0#2",
+                "rt64": "bfbb49afa002ba4d"
+            },
+            "path": "rt64\\Inaccurate Coordinates\\83687ff0#0#2"
+        },
+        {
+            "hashes": {
+                "rice": "f51fe83d#0#2",
+                "rt64": "be088ac584df2a19"
+            },
+            "path": "rt64\\Inaccurate Coordinates\\f51fe83d#0#2"
+        },
+        {
+            "hashes": {
                 "rice": "2aeaa9d8#4#1",
                 "rt64": "f031af58c351d4fd"
             },
@@ -60103,13 +60124,6 @@
         },
         {
             "hashes": {
-                "rice": "9bc075b8#0#2",
-                "rt64": "8ca5185dcc3443ce"
-            },
-            "path": ""
-        },
-        {
-            "hashes": {
                 "rice": "b41b5366#4#0",
                 "rt64": "8d4016d4e5af85f3"
             },
@@ -61328,13 +61342,6 @@
         },
         {
             "hashes": {
-                "rice": "f51fe83d#0#2",
-                "rt64": "be088ac584df2a19"
-            },
-            "path": ""
-        },
-        {
-            "hashes": {
                 "rice": "5e773666#4#0",
                 "rt64": "be267dd53c338058"
             },
@@ -61351,13 +61358,6 @@
             "hashes": {
                 "rice": "6b252cd4#4#0",
                 "rt64": "bf45407f8cfd2f1f"
-            },
-            "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "83687ff0#0#2",
-                "rt64": "bfbb49afa002ba4d"
             },
             "path": ""
         },
