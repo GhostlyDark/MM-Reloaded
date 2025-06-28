@@ -1,7 +1,9 @@
 {
     "configuration": {
         "autoPath": "rice",
-        "configurationVersion": 2,
+        "configurationVersion": 3,
+        "defaultOperation": "stream",
+        "defaultShift": "none",
         "hashVersion": 5
     },
     "extraFiles": [
@@ -26,6 +28,7 @@
             "wildcard": "MLE\\iQue\\Text\\Days\\Dawn\\*"
         }
     ],
+    "shiftFilters": [],
     "textures": [
         {
             "hashes": {
