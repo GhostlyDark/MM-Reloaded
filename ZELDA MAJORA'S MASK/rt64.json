@@ -32,6 +32,384 @@
     "textures": [
         {
             "hashes": {
+                "rice": "",
+                "rt64": "35f57caf1b645b59"
+            },
+            "path": "rt64\\Recomp\\Mods\\Dab\\DabPrompt"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "b991a890f5ba1726"
+            },
+            "path": "rt64\\Recomp\\Mods\\Dab\\ShadesHD"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "0e60c208f037ca5f"
+            },
+            "path": "rt64\\Recomp\\Mods\\Fierce Superman\\MaskofSteel"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "4ea921450561b116"
+            },
+            "path": "rt64\\Recomp\\Mods\\Fierce Superman\\Supermask"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "e9b2024a429970bf"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\WorldMap"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "5f724d9655f10cf7"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\SwampMain"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "9d912bc7f8ec8327"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\GBayMain"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "e5258c24619e97bd"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\SnowheadMain"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "39b26080d921972e"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\IkanaMain"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "799259319e06da75"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\Scaffolding"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "4f62cd61bd0ecd78"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\IceTerminaGate"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "d77e865322c9f2a1"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\MikauGrave"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "e5d912a3d7aef6ff"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\RanchBoulder"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "06e98f98807bd63c"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\IkanaRiver"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "c200525016b50896"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\CastleRoof"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "1e0148601a1d266f"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\SakonDoor"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "c2a3bc3129d98f0d"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\KeetaArea"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "55912816aafdc4fa"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\HookshotTree"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "bd0b140c7dc4d956"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\Shiro"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "41228dfc6aae82f4"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\ChimneySmith"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "3f43d3b2fb33899d"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\PondCrystal"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "4e6db898ee708d02"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\TrackBldrThawed"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "afefae0b6e16d08d"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\Seahorses"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "2709f79eea23d141"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\WFTempleCursed"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "03e010a7a17ab6db"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\TrackBldrIcy"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "42dc15b05e6f0858"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\upDownButtons"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "6aecdfd90812480f"
+            },
+            "path": "rt64\\Recomp\\Mods\\Map Overhaul\\zoomText"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "9eb07bcdcb23a3eb"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\apJunkCornerTex.rgba16"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "1b4cc642ea390387"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\apJunkFrontBlankTex.rgba16"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "12862c6b4a69d80b"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\heart_front"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "a5d06750a0a2cd5e"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\heart_side"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "4867a84bdd4855c2"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\map_front"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "0bb18370f9cc750a"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\map_side"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "d98dd4aed5f84011"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\key_front"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "b380ae82bbf27eaf"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\key_side"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "f9161262276cc2da"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\apProgCornerTex.rgba16"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "1a1a0383fbc5e96e"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\apProgFrontLeftTex.rgba16"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "ad12b85abdae0316"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\apProgFrontRightTex.rgba16"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "dd35788bbe1171d0"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\apJunkFrontLeftTex.rgba16"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "a6b2c827de1a81c3"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\apJunkFrontRightTex.rgba16"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "e216779b0cbd9a32"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\major_side"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "fab36c8d5173cc91"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\major_front"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "5a2cec8ae3bcd7ff"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\soul_side"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "d5bc215e7133cb91"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\soul_front"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "13c7117f8460bf80"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\apUsefulCornerTex.rgba16"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "1b28bb8fea11333e"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\apUsefulFrontLeftTex.rgba16"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "b3d219a5bff69161"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\apUsefulFrontRightTex.rgba16"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "afc56d4162af2dbb"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\spider_side"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "b272ceadf7e0ca44"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\spider_front"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "bcea25ecf605875d"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\fairy_front"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "584ff8981b76f2c9"
+            },
+            "path": "rt64\\Recomp\\Mods\\Rando\\fairy_side"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "9ae41b6977bbc226"
+            },
+            "path": "rt64\\Recomp\\Mods\\Textured Stars\\star"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "74c4e884139b3f0d"
+            },
+            "path": "rt64\\Recomp\\Mods\\Tingle\\TingleBod"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "5594658ad1cb8287"
+            },
+            "path": "rt64\\Recomp\\Mods\\Tingle\\TingleTrunks"
+        },
+        {
+            "hashes": {
                 "rice": "0c51ee40#0#2",
                 "rt64": "226f0905ef1b5837"
             },
