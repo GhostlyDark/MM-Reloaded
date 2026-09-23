@@ -7046,6 +7046,7 @@ cp "_temp/ZELDA MAJORA'S MASK#038BD489#4#1_all$EXT" "$PORT/parameter_static/gFin
 cp "_temp/ZELDA MAJORA'S MASK#F971D07F#4#1_all$EXT" "$PORT/parameter_static/gFinalHoursClockDigit9Tex$EXT"
 cp "_temp/ZELDA MAJORA'S MASK#C2DDB091#3#0_all$EXT" "$PORT/parameter_static/gFinalHoursClockFrameTex$EXT"
 cp "_temp/ZELDA MAJORA'S MASK#56E0F804#3#1_all$EXT" "$PORT/parameter_static/gFishermanMinigameTorchIconTex$EXT"
+cp "_temp/ZELDA MAJORA'S MASK#5D2CEB48#0#3_all$EXT" "$PORT/parameter_static/gGoldSkulltulaCounterIconTex$EXT"
 cp "_temp/ZELDA MAJORA'S MASK#869FE84C#3#1_all$EXT" "$PORT/parameter_static/gHeartEmptyTex$EXT"
 cp "_temp/ZELDA MAJORA'S MASK#E18BAC9B#3#1_all$EXT" "$PORT/parameter_static/gHeartFullTex$EXT"
 cp "_temp/ZELDA MAJORA'S MASK#B0C0ACEF#3#1_all$EXT" "$PORT/parameter_static/gHeartHalfTex$EXT"
