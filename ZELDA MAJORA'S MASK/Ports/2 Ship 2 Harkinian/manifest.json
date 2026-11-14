@@ -359,7 +359,7 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "objects/object_cs/object_cs_Tex_00EA20": {
+  "objects/object_cs/gBomberNumber2Tex": {
     "hash": "70bbb7756e4f7e567094bbfff7dca8e2d7ff53afeff9ff80c8f546db021d83f5",
     "textureType": 6,
     "textureWidth": 32,
@@ -3653,7 +3653,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_in2/object_in2_Tex_004C28": {
+  "objects/object_in2/object_in2_TLUT_004C28": {
     "hash": "7c6578af58b0010ac43c7648964852440d6e7ce0b7107720f3493fe2cb195eaa",
     "textureType": 2,
     "textureWidth": 16,
@@ -3767,7 +3767,7 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "objects/object_po_composer/object_po_composer_Tex_007E80": {
+  "objects/object_po_composer/gPoeComposerArmTex": {
     "hash": "721f009c14bb172dbec474c914e0d26df9ae05db42bc0c57f954b9073b574107",
     "textureType": 2,
     "textureWidth": 16,
@@ -6821,7 +6821,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_po_composer/object_po_composer_Tex_009480": {
+  "objects/object_po_composer/gPoeComposerCharedBodyTex": {
     "hash": "ca41bdfc28348f0681488925fa50fd8e760737eaedb6fca96630d06cf4d2f0f4",
     "textureType": 2,
     "textureWidth": 16,
@@ -7601,7 +7601,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_pr/object_pr_Tex_003FA8": {
+  "objects/object_pr/gSkullFishEyeSocketTex": {
     "hash": "60e3656f70285aa7d24a0521e3eb795a9e2e31ed0ce0e4580b3ef062896c3c2b",
     "textureType": 2,
     "textureWidth": 8,
@@ -9581,7 +9581,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_rz/object_rz_Tex_00B650": {
+  "objects/object_rz/object_rz_TLUT_00B650": {
     "hash": "c875cf6758b48aa938e61eb477351e109d582ef24700bf10179bc37dc17ba955",
     "textureType": 2,
     "textureWidth": 16,
@@ -13583,7 +13583,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_pr/object_pr_Tex_004028": {
+  "objects/object_pr/gSkullFishJawTex": {
     "hash": "2a1cb9c580fa5295fa13b75f6f6b9ba1a808f30778a5ddb5933353552929ff42",
     "textureType": 2,
     "textureWidth": 8,
@@ -17879,7 +17879,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_pr/object_pr_Tex_004128": {
+  "objects/object_pr/gSkullFishGlowingEyesTex": {
     "hash": "64452e9b4eaa8432d1a5fd3fb9d80fe904ebc665e4fe0569945106f15fc9a3a1",
     "textureType": 2,
     "textureWidth": 4,
@@ -22487,7 +22487,7 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "objects/gameplay_keep/gameplay_keep_Tex_00CA30": {
+  "objects/gameplay_keep/gHilite2Tex": {
     "hash": "9f25171d6af153350bd66ee1151ee54e20d035ca9cb8f6aef8c1b562cc200a0d",
     "textureType": 2,
     "textureWidth": 16,
@@ -24437,7 +24437,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_cs/object_cs_Tex_00D520": {
+  "objects/object_cs/gBomberEyeClosedTex": {
     "hash": "6225e9f7972dc2e9a17148b44b20518ba82ddf764c63cdb2f55d6a26e80c5305",
     "textureType": 2,
     "textureWidth": 32,
@@ -27191,7 +27191,7 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
-  "objects/object_po_composer/object_po_composer_Tex_009680": {
+  "objects/object_po_composer/gPoeComposerBroachTex": {
     "hash": "f951242418cf49fc37d21ef12a1463584f76809f252dbd3f6e5977ebc0406f16",
     "textureType": 2,
     "textureWidth": 16,
@@ -29855,7 +29855,7 @@
     "textureWidth": 4,
     "textureHeight": 4
   },
-  "objects/object_po_composer/object_po_composer_Tex_008080": {
+  "objects/object_po_composer/gPoeComposerLanternBaseTex": {
     "hash": "f628f127bf76dd830d151f4a1f2798eb989f22e3a6d9d115af7984715fbee5fd",
     "textureType": 2,
     "textureWidth": 16,
@@ -34379,7 +34379,7 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "objects/object_cs/object_cs_Tex_00C520": {
+  "objects/object_cs/gBomberEyeOpenTex": {
     "hash": "651db955382eae0fc6734e6501189a935c4505222c4601d7af5546735cc62855",
     "textureType": 2,
     "textureWidth": 32,
@@ -35891,7 +35891,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/gameplay_keep/gameplay_keep_Tex_00CA30_Overflow": {
+  "objects/gameplay_keep/gHilite2Tex_Overflow": {
     "hash": "97e9a2a0ef1e4c6d8fa813c11c5bbea16915aa9768cbac060ffe9aa89f39a541",
     "textureType": 2,
     "textureWidth": 32,
@@ -37115,7 +37115,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_cs/object_cs_Tex_00F220": {
+  "objects/object_cs/gBomberNumber5Tex": {
     "hash": "2d9af0b8a21958591224c47dc8cc7c6941a6e8e7d257b3c2963f97b0ea8f73bc",
     "textureType": 6,
     "textureWidth": 32,
@@ -37355,7 +37355,7 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "objects/object_bji/object_bji_Tex_004130": {
+  "objects/object_bji/object_bji_TLUT_004130": {
     "hash": "4711e9b218af8df63c5299f7096997d1608fea8ad4b5902a35c825f31f8e1490",
     "textureType": 2,
     "textureWidth": 16,
@@ -38249,7 +38249,7 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
-  "objects/object_po_composer/object_po_composer_Tex_008680": {
+  "objects/object_po_composer/gPoeComposerClothPaternTex": {
     "hash": "6dd98a784f5b8634e126d4aca81c3920c85bad432903ebd8315d7dd686181486",
     "textureType": 2,
     "textureWidth": 16,
@@ -40547,7 +40547,7 @@
     "textureWidth": 32,
     "textureHeight": 48
   },
-  "objects/object_po_composer/object_po_composer_Tex_008A80": {
+  "objects/object_po_composer/gPoeComposerEyeTex": {
     "hash": "a29c6138fb784983b67c458864bd0a7c7a9b72aca9b3c5f92b849649e9389ce5",
     "textureType": 2,
     "textureWidth": 16,
@@ -43595,7 +43595,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_pr/object_pr_Tex_003EA8": {
+  "objects/object_pr/gSkullFishTailTex": {
     "hash": "b5c1608f27122b69c0e85731b16165cfd8649c72c6306d5b75b56a6f85c99ed3",
     "textureType": 2,
     "textureWidth": 8,
@@ -43931,7 +43931,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_cs/object_cs_Tex_00CD20": {
+  "objects/object_cs/gBomberEyeHalfTex": {
     "hash": "198ad4a7d09b26576ca1ad00b69eb6436331b3584a0fd362c0d1366b9036edd4",
     "textureType": 2,
     "textureWidth": 32,
@@ -45917,7 +45917,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_cs/object_cs_Tex_00E620": {
+  "objects/object_cs/gBomberNumber1Tex": {
     "hash": "bed373101cb2d3ee2afa61b90ad5d3285d6c3ef46d864a0fbfbc09774b0f114f",
     "textureType": 6,
     "textureWidth": 32,
@@ -48299,7 +48299,7 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "objects/gameplay_keep/gameplay_keep_Tex_035FB0": {
+  "objects/gameplay_keep/gEffFleckTex": {
     "hash": "4072acf8da1ac15f7d704987174427de0ded40904bfce2b0434ae4746c244c51",
     "textureType": 8,
     "textureWidth": 32,
@@ -49439,7 +49439,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_cs/object_cs_Tex_00DD20": {
+  "objects/object_cs/gBomberNumber4Tex": {
     "hash": "8ceffe43c2810ff9dd5b08db2ed39f3f5e15f7692fe9571424ef20861850e789",
     "textureType": 6,
     "textureWidth": 32,
@@ -50177,7 +50177,7 @@
     "textureWidth": 128,
     "textureHeight": 16
   },
-  "objects/object_po_composer/object_po_composer_Tex_008280": {
+  "objects/object_po_composer/gPoeComposerCoatTex": {
     "hash": "74f8a9ac1316291f308cab9c593ad42b264c0dd82171e0e0179c8084b92c3e61",
     "textureType": 2,
     "textureWidth": 16,
@@ -51173,7 +51173,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_po_composer/object_po_composer_Tex_009280": {
+  "objects/object_po_composer/gPoeComposerHatEmblemFlatTex": {
     "hash": "702aea8d9fbfdfb050be213573cda2d8837dd5987c6544f2fae5d0e087d3f804",
     "textureType": 2,
     "textureWidth": 16,
@@ -52739,7 +52739,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_cs/object_cs_Tex_00EE20": {
+  "objects/object_cs/gBomberNumber3Tex": {
     "hash": "dfdfb5d946eb2962fcb4b6299630fdf021d684bcb4a23bb868ab8dbe5900bc69",
     "textureType": 6,
     "textureWidth": 32,
@@ -57785,7 +57785,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/gameplay_keep/gameplay_keep_Tex_02CB30": {
+  "objects/gameplay_keep/gUnknownCircle4Tex": {
     "hash": "6c7df70583609b976c3c68b82386c9455a8e383d8a1ba04c30bde4d644499896",
     "textureType": 6,
     "textureWidth": 16,
@@ -67157,7 +67157,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_po_composer/object_po_composer_Tex_008E80": {
+  "objects/object_po_composer/gPoeComposerMoustacheTex": {
     "hash": "5e951a20c4a81de3dd69c7855590ae17af9a9ee26eda064aff0b80c573a5659d",
     "textureType": 2,
     "textureWidth": 16,
@@ -72893,7 +72893,7 @@
     "textureWidth": 8,
     "textureHeight": 16
   },
-  "objects/object_po_composer/object_po_composer_Tex_009080": {
+  "objects/object_po_composer/gPoeComposerHatEmblemSharpTex": {
     "hash": "1d0319d293cc580d38704c6563e319aa87f7cd8b91918d44e7c3d29ca21a78d0",
     "textureType": 2,
     "textureWidth": 16,
@@ -73583,7 +73583,7 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "objects/gameplay_keep/gameplay_keep_Tex_00C830": {
+  "objects/gameplay_keep/gHilite1Tex": {
     "hash": "319acdec1c8c8cd282d27dc1acdc409d131b677e88070c1ebb01eee67d60f70c",
     "textureType": 2,
     "textureWidth": 16,
@@ -74339,7 +74339,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_cs/object_cs_Tex_00E220": {
+  "objects/object_cs/gBomberWhiteShirtBackTex": {
     "hash": "5a737eb47bafd2670bdd7aecb57a0841fad2ce4ab849286c768cd70463204685",
     "textureType": 6,
     "textureWidth": 32,
@@ -75167,7 +75167,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_po_composer/object_po_composer_Tex_008480": {
+  "objects/object_po_composer/gPoeComposerLanternGlassTex": {
     "hash": "cfa58760100cb95ee1e644b3bca379544e123aba524e6584c38290a0bf4005db",
     "textureType": 2,
     "textureWidth": 16,
@@ -77453,7 +77453,7 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
-  "objects/object_pr/object_pr_Tex_003DA8": {
+  "objects/object_pr/gSkullFishBodyRibTex": {
     "hash": "7354402366c84b825be212896b59c5f526f936685d9f1eb2653c0247c2124bd0",
     "textureType": 2,
     "textureWidth": 8,
@@ -78293,7 +78293,7 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
-  "objects/object_fz/object_fz_Tex_002E70": {
+  "objects/object_fz/gFreezardSteamTex": {
     "hash": "3ff710a87862baea67f8999099da2bebd068b7da0164325ae6dc479fd77d1511",
     "textureType": 5,
     "textureWidth": 32,
@@ -78767,7 +78767,7 @@
     "textureWidth": 32,
     "textureHeight": 128
   },
-  "objects/object_po_composer/object_po_composer_Tex_008C80": {
+  "objects/object_po_composer/gPoeComposerSharpHairCurlTex": {
     "hash": "14e36aea24bec3a16b11c7e6f3d266a9ed1ea9957a14d50676cbde916c43663a",
     "textureType": 2,
     "textureWidth": 16,
